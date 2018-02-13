@@ -1,0 +1,25 @@
+Classes:
+-Patient --> Use Prepared Statements for updateDB()
+-Dentist --> Use Prepared Statements for updateDB()
+-Appointment
+-AppointmentList
+-Procedure
+
+Servlets:
+-PatientLogin
+-PatientUpdate
+-PatientInsert
+-PatientDelete
+-DentistLogin
+-DentistUpdate
+-DentistInsert
+-DentistDelete
+
+JSPs:
+-Index
+-PatientHome
+-PatientAppointment
+-PatientInfo
+-DentistHome
+-DentistAppointments
+-DentistInfo
